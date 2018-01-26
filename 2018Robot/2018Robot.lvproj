@@ -55,6 +55,7 @@
 			<Item Name="CalculateVelAtPoints.vi" Type="VI" URL="../Drive/PurePursuit/CalculateVelAtPoints.vi"/>
 			<Item Name="EncodersGyroToXY.vi" Type="VI" URL="../Drive/PurePursuit/EncodersGyroToXY.vi"/>
 			<Item Name="RadiusOfCircleThreePoints.vi" Type="VI" URL="../Drive/PurePursuit/RadiusOfCircleThreePoints.vi"/>
+			<Item Name="Latch.vi" Type="VI" URL="../Support Code/Latch.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
