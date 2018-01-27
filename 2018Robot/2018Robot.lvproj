@@ -29,7 +29,6 @@
 		<Item Name="Robot Simulation Readme.html" Type="Document" URL="../Robot Simulation Readme.html"/>
 		<Item Name="TestPurePursuit.vi" Type="VI" URL="../Drive/PurePursuit/TestPurePursuit.vi"/>
 		<Item Name="AdjustLeftRightSpeeds.vi" Type="VI" URL="../Drive/PurePursuit/AdjustLeftRightSpeeds.vi"/>
-		<Item Name="LineCircleIntersection.vi" Type="VI" URL="../Drive/PurePursuit/LineCircleIntersection.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
