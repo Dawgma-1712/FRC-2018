@@ -56,6 +56,8 @@
 			<Item Name="EncodersGyroToXY.vi" Type="VI" URL="../Drive/PurePursuit/EncodersGyroToXY.vi"/>
 			<Item Name="RadiusOfCircleThreePoints.vi" Type="VI" URL="../Drive/PurePursuit/RadiusOfCircleThreePoints.vi"/>
 			<Item Name="Latch.vi" Type="VI" URL="../Support Code/Latch.vi"/>
+			<Item Name="TimerOnDelay.vi" Type="VI" URL="../Support Code/TimerOnDelay.vi"/>
+			<Item Name="Timeout.vi" Type="VI" URL="../Support Code/Timeout.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
